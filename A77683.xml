@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The intentions of the armie: concerning the Kings Majestie, for estating him in his rights. Also their desires concerning the Queen, Prince Charles, and the Royall issue, and also for setling of the Parliament in their priviledges, and all subjects in their liberties, and the kingdome in peace.</title>
+            <author>Browne, Richard, Sir, 1602?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77683</idno>
+            <idno type="STC">Wing B5143</idno>
+            <idno type="STC">Thomason E408_16</idno>
+            <idno type="STC">ESTC R204680</idno>
+            <idno type="EEBO-CITATION">99864146</idno>
+            <idno type="PROQUEST">99864146</idno>
+            <idno type="VID">160549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E408[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The intentions of the armie: concerning the Kings Majestie, for estating him in his rights. Also their desires concerning the Queen, Prince Charles, and the Royall issue, and also for setling of the Parliament in their priviledges, and all subjects in their liberties, and the kingdome in peace.</title>
+                  <author>Browne, Richard, Sir, 1602?-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeere. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160549:1" rendition="simple:additions"/>
+            <p>THE INTENTIONS OF THE ARMIE:</p>
+            <p>Concerning The KINGS Majeſtie, for eſtating Him in His Rights.</p>
+            <p>Alſo their deſires concerning the <hi>Queen, Prince Charles, and the Royall Iſſue,</hi>
+            </p>
+            <p>And alſo for ſetling of the Parliament in their Priviledges, and all Subjects in <hi>their Liberties, and the Kingdome</hi> in PEACE.</p>
+            <figure>
+               <figDesc>Royal blazon, crowned English rose</figDesc>
+               <head>C R</head>
+            </figure>
+            <p>Printed in the Yeere. 1647,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160549:2"/>
+            <pb n="1" facs="tcp:160549:2"/>
+            <head>THE INTENTIONS OF THE ARMIE Concerning The KINGS Majeſty, for eſtating Him in His Rights.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>FRom what you may gather from the pro<g ref="char:EOLhyphen"/>ceedings of the Army; and by weigh<g ref="char:EOLhyphen"/>ing all their Propoſals, Deſires, Motions, you may finde the Intentions of this Army, to be much tending to a hoped for peace, in regard that they aime not to beare up any one party
+<pb n="2" facs="tcp:160549:3"/> for ſiniſter ends, but that every one may in<g ref="char:EOLhyphen"/>joy their juſt Rights, Priviledges, and the Li<g ref="char:EOLhyphen"/>berties, and the kingdome, in a ſetled peace.</p>
+            <p>Nor can any ſay that they have ſought, or doe ſeek themſelves in regard they have ſo clearly manifeſted to the world the contrary, as may appeare in many particulars.</p>
+            <p>To inſtance onely the great delay of mo<g ref="char:EOLhyphen"/>neyes for their ſubſiſtance, though ſo many moneths behinde of pay, and are conſtrain<g ref="char:EOLhyphen"/>ed to free-quarter, and have allowance ſo much as to buy them clothes, hoſe, ſhooes or any thing, though the Winter ſo neare ap<g ref="char:EOLhyphen"/>proached.</p>
+            <p>They ſeek not places for themſelves in the civill affaires of the Kingdome, not to get the wealth of the Kingdome into their hands but only deſire ſubſiſtance, whilſt they are in the Kingdomes ſervice.</p>
+            <p>They deſire that the King may have what is rightly his, and that we ſhould doe one to another as we would be done by.</p>
+            <p>They would His Majeſty to be allowed the benefit of injoying His Wife, and Chil<g ref="char:EOLhyphen"/>dren, and ſuch other Rights as are truely His.</p>
+            <pb n="3" facs="tcp:160549:3"/>
+            <p>That the Parliament may enjoy all their juſt Priviledges, freely, and ſuch power as of right belongs to them, to execute that truſt repoſed in them,</p>
+            <p>And that all Subjects may injoy their juſt Liberties, and rights in freedome and ſafety.</p>
+            <p>For Your Lordſhips further ſatisfaction, I have ſent your Lordſhips theſe following heads of their Intentions, which I have col<g ref="char:EOLhyphen"/>lected.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>That ſuch things as are neceſſary for ſe<g ref="char:EOLhyphen"/>curing the Rights and Liberties of the peo<g ref="char:EOLhyphen"/>ple; and the juſt priviledges of a free Parlia<g ref="char:EOLhyphen"/>ment, and for ſetling the Militia, and peace of the Kingdome, may be preſented to the King, by Bill, or Ordinance of Parliament, for the Royall aſſent.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>That the ſaid Propoſitions being tendered to his Majeſty, and He ſhall have given his concurrence for ſetling the Rights, Liberties, and Peace of the Kingdome, that then the Rights, Liberties, and peace of the kingdom, That then the Rights of the Kings Majeſty, the Queene, the Prince, the Duke of <hi>Yorke,</hi>
+                  <pb n="4" facs="tcp:160549:4"/> and the reſt of the Royall poſterity may bee conſidered of.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>That the Rights of His Majeſty, and His Poſterity may be ſettled by Act of Parli<g ref="char:EOLhyphen"/>ament, in all things, ſo farre as may conſiſt with the Right and Freedome of the Subject, And with the ſecurity of the ſame for the future.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IIII.</head>
+               <p>That a generall Act of Oblivion may be paſſed, for the pardoniong of all perſons for all acts or hoſtility, treſpaſſes miſdemenopurs and other actions done ion proſecution of the late unhappy Warre, betweene the King and the Parliament, and to free all perſons (thoſe expreſſed in the Propoſitions only excepted) from all troubles, ſuites,; or prejudice which ſhall be brought againſt them for the ſame; And to reſtore them to all Priviledges, and Rights, belonging to them as Subjectes, pro<g ref="char:EOLhyphen"/>vided, that no Subjects that have been in Hoſtility againſt the Parliament in the late VVarre, ſhall be capable of bearing any of<g ref="char:EOLhyphen"/>fice of power, or publique truſt in the Com<g ref="char:EOLhyphen"/>mon-wealth, during the ſpace of five years,
+<pb n="5" facs="tcp:160549:4"/> without conſent of Parliament, or ſuch power as they ſhall appoint.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>That His Majeſties perſon may bee reſtored to a condition of ſafety, honour, and freedome, without di<g ref="char:EOLhyphen"/>minution to his perſonall Rights, or limitation beyond the right exerciſe of the Regall power.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>That the Queenes Majeſty may have liberty to come over into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to injoy her perſonall Rights, with ſafety, honour, and freedom, pro<g ref="char:EOLhyphen"/>vided, that nothing be done to the prejudice of the Rights, Liberties, Peace, and ſafety of the Kingdom.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>That His Highnes Prince <hi>Charles,</hi> and the reſt of the Kings Children, may be reſtored to all their perſonall
+<pb n="6" facs="tcp:160549:5"/> rights in this Kingdome, in ſafety, ho<g ref="char:EOLhyphen"/>nour, and freedome.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>That his Majeſty may returne to <hi>London,</hi> and ſit with his Parliament, fopr the ſetling, and ſecuring the Rights liberties, peace, and ſafety of the king<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Putney</hi> 
+                  <date>the 21 <hi>of Septemb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
